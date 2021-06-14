@@ -19,6 +19,8 @@ Here is the link to the Github repository where the repo can be cloned (https://
 
 To use this app, you must have node installed on your machine. Once you do, clone the repo and type 'npm i' in the terminal to install the node_ modules folder. From there, type 'node index' in the terminal to kick off inquirer. Answer all the prompts, and once you select that your finished creating your team, an index.html file will generate in the output folder..
 
+![screenshot](assets/screenshot.PNG)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
